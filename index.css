@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;500;600&display=swap');
+
+
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    text-transform: capitalize;
+    font-family: 'Montserrat', sans-serif;
+    transition: all 0.2s ease-in-out;
+    list-style: none;
+    text-decoration: none;
+}
+
+body{
+    background-image: linear-gradient(to right , #002853 , #040C18);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+#MAIN
+{
+    background-image: linear-gradient(to right top, #002853 30%, #040C18 60%);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+   
+}
+
+
+.nav-link {
+    justify-content: space-between;
+    color: #fff;
+    margin: 10px;
+    font-size: 15px
+}
+.headsection h1
+{
+    color: rgba(174, 103, 250, 1);
+}
+.headsection p
+{
+    
+ color:rgba(129, 175, 221, 1)
+}
+.headimage img
+{
+    animation: hedimage 0.2s  top ;
+}
+
+.greed2
+{
+    background-color:#0F4279;
+    height: 100vh;
+    border-radius: 10px;
+
+}
+.secound hr
+{
+    height: 3px;
+width: 38px;
+left: 196px;
+top: 1106px;
+border-radius: 0px;
+color: rgb(185, 136, 236);
+}
+.secound p
+{
+    color:     #81AFDD;
+}
+.secound h3
+{
+    color:#AE67FA;
+    font-size: 30px;
+    margin-top: 40px;
+}
+.secound h5{
+    color: #FF8A71;
+    margin-top: 54px;
+    padding: 30px;
+}
+.frame2 p
+{
+    color: #81AFDD;
+    margin-top: 50px;
+}
+.frame2 h2
+{
+    margin-top: 50px;
+}
+.frame2 h2
+{
+    color: #AE67FA;
+}
+.frame2 h6
+{
+    color: #FF8A71;
+}
+.greed3
+{
+    background-image: linear-gradient(to right,#AE67FA,#F49867);
+    border-radius: 5px;
+}
+.greed3 button
+{
+    margin-top: 100px;
+    
+}
+h1{
+    color:#AE67FA ;
+}
+.cold
+{
+    background-color: #0F4279;
+    height: 650px;
+}
+.cold2
+{
+    background-color: #0F4279;
+}
+.footerback
+{
+    background-color: #0F4279;
+}
+.footerback h3
+{
+    margin-top: 80px;
+   
+    
+    color: #fff;
+}
+li
+{
+    color: #fff;
+    margin: 5px;
+}
+
+@media only screen and (max-width: 600px) {
+   
+  }
